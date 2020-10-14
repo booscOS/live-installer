@@ -577,7 +577,7 @@ msgstr "Пожалуйста, выберите корневой (/) раздел
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:950
 msgid ""
-"A root partition is needed to install Linux Mint on.\n"
+"A root partition is needed to install BooscOS on.\n"
 "\n"
 " - Mount point: /\n"
 " - Recommended size: 30GB\n"
@@ -587,7 +587,7 @@ msgid ""
 " - subvolume Mount-point /@\n"
 " - btrfs as filesystem format\n"
 msgstr ""
-"Для установки Linux Mint требуется корневой раздел.\n"
+"Для установки BooscOS требуется корневой раздел.\n"
 "\n"
 " - Точка монтирования: /\n"
 " - Рекомендуемый размер: 30 ГБ\n"

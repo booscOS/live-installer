@@ -201,7 +201,7 @@ msgstr ""
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:276
 #: usr/lib/live-installer/frontend/gtk_interface.py:277
-msgid "Where do you want to install LMDE?"
+msgid "Where do you want to install BooscOS?"
 msgstr ""
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:277
@@ -244,12 +244,12 @@ msgid "Next"
 msgstr ""
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:290
-msgid "Welcome to the LMDE Installer."
+msgid "Welcome to the BooscOS Installer."
 msgstr ""
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:291
 msgid ""
-"This program will ask you some questions and set up LMDE on your computer."
+"This program will ask you some questions and set up BooscOS on your computer."
 msgstr ""
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:298
@@ -308,7 +308,7 @@ msgid "Automated Installation"
 msgstr ""
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:318
-msgid "Erase a disk and install LMDE on it."
+msgid "Erase a disk and install BooscOS on it."
 msgstr ""
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:319
@@ -336,7 +336,7 @@ msgid "Manual Partitioning"
 msgstr ""
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:325
-msgid "Manually create, resize or choose partitions for LMDE."
+msgid "Manually create, resize or choose partitions for BooscOS."
 msgstr ""
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:326
@@ -536,7 +536,7 @@ msgstr ""
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:950
 msgid ""
-"A root partition is needed to install Linux Mint on.\n"
+"A root partition is needed to install BooscOS on.\n"
 "\n"
 " - Mount point: /\n"
 " - Recommended size: 30GB\n"

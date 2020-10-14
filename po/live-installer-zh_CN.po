@@ -542,7 +542,7 @@ msgstr "请选择一个根(/)分区"
 
 #: usr/lib/live-installer/frontend/gtk_interface.py:950
 msgid ""
-"A root partition is needed to install Linux Mint on.\n"
+"A root partition is needed to install BooscOS on.\n"
 "\n"
 " - Mount point: /\n"
 " - Recommended size: 30GB\n"

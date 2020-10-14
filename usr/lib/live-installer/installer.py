@@ -703,7 +703,7 @@ class InstallerEngine:
             grubfh = open("/target/boot/grub/grub.cfg", "r")
             for line in grubfh:
                 line = line.rstrip("\r\n")
-                if ("menuentry" in line and ("class linuxmint" in line or "Linux Mint" in line or "LMDE" in line)):
+                if ("menuentry" in line and ("class linuxmint" in line or "BooscOS" in line or "LMDE" in line)):
                     found_entry = True
                     print " --> Found Grub entry: %s " % line
             grubfh.close()
