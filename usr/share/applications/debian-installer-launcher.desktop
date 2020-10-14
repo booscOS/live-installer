@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=Install Linux Mint
-GenericName=Live Installer
+Name=BooscOS Installer
+GenericName=Installer
 Comment=Install the operating system to disk
 Exec=sudo /usr/bin/live-installer
 Icon=live-installer
